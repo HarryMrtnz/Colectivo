@@ -23,6 +23,7 @@ public class Colectivo {
 	}
 	
 
+	dsds
 	public String getPatente() {
 		return patente;
 	}
